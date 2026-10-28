@@ -1,0 +1,6 @@
+target/
+build/
+.idea/
+*.iml
+*.db
+src/main/resources/config.properties
